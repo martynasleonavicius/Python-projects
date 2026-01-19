@@ -1,9 +1,0 @@
-2026-01-19 12:24:28,820 - INFO - starting training...
-2026-01-19 12:24:28,820 - INFO - This is a basic training of the combined annotations (CA). All hyperparameters will be varied.
-2026-01-19 12:24:28,820 - INFO - hyperparameters: num_epochs: 1, batch_size: 5, learning_rate: 0.002, momentum: 0.9, weight_decay: 0.0005, step_size: 3, gamma: 0.7
-2026-01-19 12:24:28,821 - INFO - Dataset size:128
-2026-01-19 12:34:00,845 - INFO - Epoch [1/1] Training - lr: 0.0011, loss: 2.1362, loss_classifier: 0.3368, loss_box_reg: 0.5341, loss_mask: 0.6585, loss_objectness: 0.4695, loss_rpn_box_reg: 0.1373
-2026-01-19 12:40:34,569 - INFO - Epoch [1/1] Validation - IoU Type: bbox, AP(0.5:0.95): 0.1891, AP(0.5): 0.4091, AP(0.75): 0.1464, AP(small): 0.1785, AP(medium): 0.6015, AP(large): 0.6000, AR(0.5:0.95): 0.0156,AR(0.5): 0.1133,AR(0.75): 0.2978,AR(small): 0.2610,AR(medium): 0.7000,AR(large): 0.6000 | IoU Type: segm, AP(0.5:0.95): 0.2205, AP(0.5): 0.4091, AP(0.75): 0.2504, AP(small): 0.1882, AP(medium): 0.7228, AP(large): 0.7000, AR(0.5:0.95): 0.0200,AR(0.5): 0.1356,AR(0.75): 0.3044,AR(small): 0.2634,AR(medium): 0.7333,AR(large): 0.7000
-2026-01-19 12:40:34,608 - INFO - 
-
-2026-01-19 12:40:34,608 - INFO - Time taken: 16.149273296197254
